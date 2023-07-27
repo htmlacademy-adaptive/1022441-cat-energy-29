@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Victoria Knyazeva](https://up.htmlacademy.ru/adaptive/29/user/1022441).
-* Наставник: `Неизвестно`.
+* Наставник: [Анастасия Гущина](https://htmlacademy.ru/profile/vanastasiya).
 
 ---
 
